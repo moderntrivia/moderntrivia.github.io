@@ -14,11 +14,11 @@ img {
  display: block;
 }
 .text {
- max-width: 600px;   
+ max-width: 600px;
  margin: 250px auto;
  text-align: justify;
  line-height: 1.5;
- color: #999999;   
+ color: #999999;
 }
 a {
  color: #FFFFFF;
